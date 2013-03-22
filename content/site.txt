@@ -1,0 +1,17 @@
+﻿Title: Calliope Studio Tattoo
+
+----
+
+Author: Evan Sykes
+
+----
+
+Description: Tattoo site for P5 of EWU Weblab
+
+----
+
+Keywords: kirby, cms, kirbycms, php, filesystem, EWU Weblab
+
+----
+
+Copyright: © (date: Year) (link: http://evansykes.com text: Evan Sykes)
